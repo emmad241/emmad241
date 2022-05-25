@@ -1,16 +1,67 @@
-### Hi there 👋
 
-<!--
-**emmad241/emmad241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Emma.</h2>
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmaduffy241@gmail.com?subject=%20New%20message%20sent%20on%20Github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Emma+Duffy.;I+am+a+software+developer.)
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Expanding my technological knowledge and developing software.
+- 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
+- 🇮🇪 &nbsp; Originally from England, living in Ireland.
+- 🔭 &nbsp; I am currently working on **university projects** and following **The Odin Project** curriculum.
+- 🌱 &nbsp; I am currently learning **JavaFX framework**, **MongoDB**, **data structures and algorithms**, **R language** and **C language**.
+- ✍️ &nbsp; Learning piano in my free time.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<br/>
+
+### 📊 Stats
+
+![Visits Badge](https://badges.pufler.dev/visits/emmad241/szpricky)
+![Repos Badge](https://badges.pufler.dev/repos/emmad241)
+![Years Badge](https://badges.pufler.dev/years/emmad241)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/emmad241)
+
+<br/>
+
+<a href="https://github.com/emmad241">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmad241&theme=radical&show_icons=true&" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmad241&theme=radical&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
