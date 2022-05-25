@@ -11,15 +11,15 @@
 - 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
 - 🔭 &nbsp; I am currently working on **university projects** and following **The Odin Project** curriculum.
-- 🌱 &nbsp; I am currently learning **JavaFX framework**, **MongoDB**, **data structures and algorithms**, **R language** and **C language**.
-- ✍️ &nbsp; Learning piano in my free time.
+- 🌱 &nbsp; I am currently learning **JavaFX*, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
+- 🎹 &nbsp; Learning piano in my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C]((https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -29,7 +29,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -38,14 +38,14 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 <br/>
 
 ### 📊 Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/emmad241/szpricky)
+![Visits Badge](https://badges.pufler.dev/visits/emmad241)
 ![Repos Badge](https://badges.pufler.dev/repos/emmad241)
 ![Years Badge](https://badges.pufler.dev/years/emmad241)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/emmad241)
@@ -62,6 +62,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
