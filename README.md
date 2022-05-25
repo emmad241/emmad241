@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
 - 🔭 &nbsp; I am currently working on **university projects** and following **The Odin Project** curriculum.
-- 🌱 &nbsp; I am currently learning **JavaFX*, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
+- 🌱 &nbsp; I am currently learning **JavaFX**, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
 - 🎹 &nbsp; Learning piano in my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
