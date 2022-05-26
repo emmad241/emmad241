@@ -4,15 +4,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmaduffy241@gmail.com?subject=%20New%20message%20sent%20on%20Github)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Emma+Duffy.;I+am+a+software+developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=61F731&center=true&vCenter=true&lines=Hi%2C+I'm+Emma+Duffy.+;I+am+a+software+developer.">
+  
 </p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Expanding my technological knowledge and developing software.
+- 🔭 &nbsp; Expanding my technological knowledge and developing software.
 - 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
-- 🔭 &nbsp; I am currently working on **university projects**, a **Discord topic bot**, and following **The Odin Project** curriculum.
+- 💻 &nbsp; I am currently working on **university projects**, a **Discord topic bot**, and following **The Odin Project** curriculum.
 - 🌱 &nbsp; I am currently learning **JavaFX**, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
 - 🎹 &nbsp; Learning piano and <a href="https://www.goodreads.com/user/show/142426694-emma-duffy">reading</a> in my free time.
 
@@ -53,10 +54,12 @@
 
 <br/>
 
-<a href="https://github.com/emmad241">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmad241&theme=radical&show_icons=true&" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmad241&langs_count=5&theme=radical&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/emmad241">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmad241&theme=radical&show_icons=true&" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmad241&langs_count=5&theme=radical&layout=compact" />
+  </a>
+</p>
 
 <br/>
 
