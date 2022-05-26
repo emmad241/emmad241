@@ -12,7 +12,7 @@
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
 - 🔭 &nbsp; I am currently working on **university projects**, a **Discord topic bot**, and following **The Odin Project** curriculum.
 - 🌱 &nbsp; I am currently learning **JavaFX**, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
-- 🎹 &nbsp; Learning piano and reading in my free time.
+- 🎹 &nbsp; Learning piano and <a href="https://www.goodreads.com/user/show/142426694-emma-duffy">reading</a> in my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
