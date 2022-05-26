@@ -3,7 +3,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmaduffy241@gmail.com?subject=%20New%20message%20sent%20on%20Github)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Emma+Duffy.;I+am+a+software+developer.)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Emma+Duffy.;I+am+a+software+developer.">
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -53,7 +55,7 @@
 
 <a href="https://github.com/emmad241">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmad241&theme=radical&show_icons=true&" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmad241&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmad241&langs_count=5&theme=radical&layout=compact" />
 </a>
 
 <br/>
@@ -61,6 +63,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
