@@ -13,7 +13,7 @@
 - 🔭 &nbsp; Expanding my technological knowledge and developing software.
 - 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
-- 💻 &nbsp; I am currently working on **university projects**, a **Discord topic bot**, and following **The Odin Project** curriculum.
+- 💻 &nbsp; I am currently working on **university projects**, a **Discord topic bot**, and following multiple webdev courses.
 - 🌱 &nbsp; I am currently learning **JavaFX**, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
 - 🎹 &nbsp; Learning piano and <a href="https://www.goodreads.com/user/show/142426694-emma-duffy">reading</a> in my free time.
 
