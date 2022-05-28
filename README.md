@@ -48,7 +48,7 @@
 
 ### 📊 Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/emmad241/emmad241)
+![Visits Badge](https://komarev.com/ghpvc/?username=emmad241&color=ff69b4)
 ![Repos Badge](https://badges.pufler.dev/repos/emmad241)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/emmad241)
 
