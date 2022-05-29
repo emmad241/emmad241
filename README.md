@@ -48,9 +48,9 @@
 
 ### 📊 Stats
 
-![Visits Badge](https://komarev.com/ghpvc/?username=emmad241&color=ff69b4)
-![Repos Badge](https://badges.pufler.dev/repos/emmad241)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/emmad241)
+![Visits Badge](https://badges.pufler.dev/visits/emmad241/emmad241/?color=ff69b4)
+![Repos Badge](https://badges.pufler.dev/repos/emmad241/?color=ff69b4)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/emmad241/?color=ff69b4)
 
 <br/>
 
@@ -66,6 +66,6 @@
 <h3> 🤝 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-ff69b4?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-ff69b4?style=flat-square&logo=gmail"></a>
 </p>
