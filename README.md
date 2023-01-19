@@ -43,7 +43,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-  ![Mac](https://img.shields.io/badge/-Mac-333333?style=flat&logo=mac)
+  ![Apple](https://img.shields.io/badge/-Mac-333333?style=flat&logo=apple)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 <br/>
 
