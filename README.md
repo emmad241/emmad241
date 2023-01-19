@@ -59,6 +59,6 @@
 <h3> 🤝 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-ff69b4?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-ff69b4?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/emma-duffy-2628a0233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emma%20Duffy-545aff?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:emmaduffy241@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmaduffy241@gmail.com-545aff?style=flat-square&logo=gmail"></a>
 </p>
