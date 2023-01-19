@@ -12,10 +12,9 @@
 
 - 🔭 &nbsp; Expanding my technological knowledge and developing software.
 - 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
+- 💻 &nbsp; Software engineering intern at **Teamwork**
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
-- 💻 &nbsp; I am currently working on **university projects**, a **Discord topic bot**, and following multiple webdev courses.
-- 🌱 &nbsp; I am currently learning **JavaFX**, **data structures and algorithms**, **MongoDB**, **R**, **C**, and **Linux**.
-- 🎹 &nbsp; Learning piano and <a href="https://www.goodreads.com/user/show/142426694-emma-duffy">reading</a> in my free time.
+- 🌱 &nbsp; I am currently learning **Go**, **Vue**, and **REST APIs**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,6 +29,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
@@ -43,6 +43,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Mac](https://img.shields.io/badge/-Mac-333333?style=flat&logo=mac)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 <br/>
 
