@@ -47,18 +47,10 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 <br/>
 
-### 📊 Stats
-
-![Visits Badge](https://badges.pufler.dev/visits/emmad241/emmad241/?color=ff69b4)
-![Repos Badge](https://badges.pufler.dev/repos/emmad241/?color=ff69b4)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/emmad241/?color=ff69b4)
-
-<br/>
-
 <p align="center">
   <a href="https://github.com/emmad241">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmad241&theme=radical&show_icons=true&" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmad241&langs_count=5&theme=radical&layout=compact" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emmad241&theme=radical&show_icons=true&" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmad241&langs_count=5&theme=radical&layout=compact" />
   </a>
 </p>
 
