@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmaduffy241@gmail.com?subject=%20New%20message%20sent%20on%20Github)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=61F731&center=true&vCenter=true&lines=Hi%2C+I'm+Emma+Duffy.+;I+am+a+software+developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=545AFF&center=true&vCenter=true&lines=Hi%2C+I'm+Emma+Duffy.+;I+am+a+software+developer.">
   
 </p>
 
