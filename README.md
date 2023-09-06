@@ -12,7 +12,6 @@
 
 - 🔭 &nbsp; Expanding my technological knowledge and developing software.
 - 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
-- 💻 &nbsp; Software engineering intern at **Teamwork**
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
 - 🌱 &nbsp; I am currently learning **Go**, **Vue**, and **REST APIs**.
 
