@@ -11,7 +11,7 @@
 <h3> 👩💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Expanding my technological knowledge and developing software.
-- 🎓 &nbsp; Studying Software Development at **Munster Technological University**.
+- 🎓 &nbsp; Graduated from Software Development at **Munster Technological University**.
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
 - 🌱 &nbsp; I am currently learning **Go**, **Vue**, and **REST APIs**.
 
