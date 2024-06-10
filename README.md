@@ -13,7 +13,7 @@
 - 🔭 &nbsp; Expanding my technological knowledge and developing software.
 - 🎓 &nbsp; Graduated from Software Development at **Munster Technological University**.
 - 🇮🇪 &nbsp; Originally from England, living in Ireland.
-- 🌱 &nbsp; I am currently learning **Go**, **Vue**, and **REST APIs**.
+- 🌱 &nbsp; I am currently learning **React**, **Node**, and **REST APIs**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
